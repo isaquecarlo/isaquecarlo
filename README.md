@@ -1,5 +1,5 @@
 # Olá, eu sou o Isaque, prazer !
-### Data Scientist | Python Developer | SQL & AI/AI
+### Data Scientist | Python Developer | SQL & AI
 
 Sou um **Cientista de Dados** e **Desenvolvedor** com sólida formação em **Análise e Desenvolvimento de Sistemas (Full Stack)**. Meu diferencial é a capacidade de integrar **Python** com **Bancos de Dados (SQL)** para criar soluções robustas, desde a automação de rotinas até modelos de IA.
 
